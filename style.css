@@ -67,6 +67,7 @@ a {
     background-image: url(Joshuas.jpg);
     color:black;
     padding-top:  100px;
+    width:100%;
 }
 html {
   scroll-behavior: smooth;
