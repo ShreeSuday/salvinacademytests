@@ -100,7 +100,7 @@ ul  {
     font-family:monospace;
     background-image: url(wp4wwt.png);
     margin-top: 125px;
-    width:100%;
+     min-width: 100%;
 }
 #lolxdcolond{
     padding: 20px;
