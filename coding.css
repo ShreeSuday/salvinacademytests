@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(#343838 0%, #abb8b8 100%);
+}
+button {
+    padding-left: 20px;
+    background-color: azure;
+    margin-top: 200px;
+        
+}
+	span {
+	  display: flex;
+		  justify-content: center;
+}

@@ -1,0 +1,144 @@
+body {
+    text-align: center;
+    background-image: url(46a4c7035f0de24d7b5ccedc75ba2257.jpg);
+    font-family: monospace;
+    
+}
+
+.hOness {
+    color: black;
+    padding-top: 90px;
+    border-color: aqua;
+}
+
+#nameinput {
+    border-radius: 5px;
+    font-family: monospace;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+}
+
+#buttonregister {
+    border-radius: 10px;
+    background-color: aquamarine;
+    font-family: monospace;
+}
+
+.aifs {
+    text-decoration: none;
+    background-color: slategrey;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 9px;
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+    
+    text-decoration: none;
+}
+
+#secondsection {
+    margin-right: 1000px;
+    margin-top: 50px;
+}
+
+#firstsection {
+    margin-top: -50px;
+}
+
+.hTwos {
+    color: darkslategray;
+}
+
+#bruhmememall {
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+#aboutus {
+    background-image: url(Joshuas.jpg);
+    color:black;
+    padding-top:  100px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.links{
+    float:center;
+    padding-left: 30px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.links a{
+    color: darkslategray;
+    text-decoration:;
+}
+ul  {
+    list-style: none;
+    position: none;
+    cursor: pointer;
+    margin-left: 950px;
+}
+#sitw{
+    margin-left: 1000px;
+    color: black;
+}
+#whatweteach{
+   border-width: 22px;
+    color:black;
+    text-decoration:inherit;
+    padding: 100px;
+    font-family:monospace;
+    background-image: url(wp4wwt.png);
+    margin-top: 125px;
+}
+#lolxdcolond{
+    padding: 20px;
+}
+#bruhmemedancw{
+     border-width: thin;
+}
+
+footer a{
+    color:dimgrey;
+    text-decoration: inherit;
+}
+#watcha:hover{
+    color: palevioletred;
+}
+#bruhbutton{
+    margin-left:700px;
+    background-color: black;
+}
+hr{
+    margin-top: 300px;
+    margin-bottom: -100px;
+    width: 1000px;
+    font-weight: bolder;
+}
+#ubhfvf{
+    margin-top: -200px;
+    margin-left: 40px;
+}
+
+#aboutus h2{
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+#aboutus h4{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#signuptxt{
+    margin-left: 40px;
+}

@@ -1,0 +1,19 @@
+body{
+ text-align-last: center;
+    background-image:url(black%20abstract%20wallpaper%20HD.jpg);
+    color: aliceblue;
+    font-family: monospace;
+}
+img{
+padding-bottom: -10px;
+}
+div{
+    
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+    font-family:sans-serif;
+    font-weight: 100;
+}
